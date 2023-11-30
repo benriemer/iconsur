@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "commander": "^6.0.0",
-    "glob": "^7.1.6",
+    "glob": "^9.0.0",
     "icns-lib": "^1.0.1",
     "jimp": "^0.14.0",
     "node-fetch": "^2.6.1",
